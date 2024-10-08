@@ -1,0 +1,7 @@
+/log
+/__pycache__
+log.html
+report.html
+output.xml
+poetry.lock
+.vscode
